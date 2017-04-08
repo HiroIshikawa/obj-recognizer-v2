@@ -17,3 +17,11 @@
 - [Fast Object Detection and Tracking](http://mi.eng.cam.ac.uk/~cipolla/lectures/4F12/Slides/old/4F12-detection.pdf)
 - [TLD](http://personal.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html)
 - [Leader Board of Object Detection Frameworks](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+
+### Hypothesis
+
+- Define the value of the application and its user experience to accomplish it.
+- Implement the optimal pipeline of adapting the trained model to produce useful testing result.
+ - Feature extraction
+ - Feature matching
+ - Detection fusion
